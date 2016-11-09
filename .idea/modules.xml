@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hday11.iml" filepath="$PROJECT_DIR$/Hday11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday11_01_sharesdk的使用/hday11_01_sharesdk的使用.iml" filepath="$PROJECT_DIR$/hday11_01_sharesdk的使用/hday11_01_sharesdk的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday11_05_zonghe/hday11_05_zonghe.iml" filepath="$PROJECT_DIR$/hday11_05_zonghe/hday11_05_zonghe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xrecyclerview_library/xrecyclerview_library.iml" filepath="$PROJECT_DIR$/xrecyclerview_library/xrecyclerview_library.iml" />
+    </modules>
+  </component>
+</project>
